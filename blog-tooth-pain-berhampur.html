@@ -40,6 +40,28 @@
     "dateModified": "2026-05-21"
   }
   </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": "https://s69909012-dotcom.github.io/dr-smile-berhampur/index.html"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Blog",
+    "item": "https://s69909012-dotcom.github.io/dr-smile-berhampur/index.html#blog"
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Tooth Pain Remedies",
+    "item": "https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-tooth-pain-berhampur.html"
+  }]
+}
+  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@300;400;600&display=swap" rel="stylesheet">
@@ -305,6 +327,25 @@
       color: var(--muted);
     }
     .article-footer strong { color: var(--navy); }
+    .breadcrumb {
+    font-size: 16px !important;
+    color: #666;
+    margin: -15px 0 10px 0 !important;
+    padding: 0px !important;
+    text-align: left !important;
+}
+.breadcrumb a {
+    color: var(--blue, #1a4fa0) !important;
+    text-decoration: none;
+    font-weight: 600;
+}
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+.breadcrumb span {
+    color: #333;
+    font-weight: 500;
+}
   </style>
 </head>
 <body>
@@ -331,6 +372,11 @@
 
 <!-- Article -->
 <div class="container">
+  <nav class="breadcrumb">
+            <a href="index.html">Home</a> &gt; 
+            <a href="index.html#blog">Blog</a> &gt; 
+            <span>Tooth Pain Remedies</span>
+  </nav>
 
   <!-- Table of Contents -->
   <nav class="toc">
