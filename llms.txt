@@ -1,0 +1,32 @@
+# Dr. Smile Dental Clinic Berhampur
+
+> Dr. Smile Dental Clinic is a trusted and affordable dental clinic in Berhampur (Brahmapur), Odisha, India. We provide high-quality dental care including general dentistry, root canal treatment, dental implants, teeth whitening, orthodontics (braces), and smile makeovers. Our experienced dental team uses modern equipment and follows strict hygiene protocols. Serving patients from Berhampur, Ganjam district, and across Odisha.
+
+## Services
+- [General Dentistry Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-general-dentistry.html): Routine dental checkups, teeth cleaning, scaling, and preventive dental care in Berhampur, Odisha.
+- [Dental Implants Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-dental-implants.html): Permanent tooth replacement with high-quality titanium dental implants in Berhampur.
+- [Root Canal Treatment Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-root-canal.html): Painless root canal treatment to save infected teeth and relieve severe toothache in Berhampur, Odisha.
+- [Teeth Whitening Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-teeth-whitening.html): Professional in-clinic teeth whitening for a brighter, confident smile in Berhampur.
+- [Orthodontics & Braces Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-orthodontics.html): Metal braces and clear aligners to straighten teeth and correct bite issues in Berhampur, Odisha.
+- [Smile Makeover Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/service-smile-makeover.html): Complete cosmetic dental transformation including veneers, whitening, and reshaping in Berhampur.
+
+## Blog & Patient Education
+- [Best Dentist in Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-best-dentist-berhampur.html): Guide to finding the best and most trusted dentist in Berhampur, Odisha.
+- [Root Canal Treatment in Berhampur — Myths vs Facts](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-root-canal-berhampur.html): Common myths about root canal treatment debunked with real facts for patients in Berhampur.
+- [Teeth Cleaning in Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-teeth-cleaning-berhampur.html): Why regular professional teeth cleaning is essential for oral health — guide for Berhampur patients.
+- [Tooth Pain Relief in Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-tooth-pain-berhampur.html): Causes of tooth pain and when to see an emergency dentist in Berhampur, Odisha.
+- [Wisdom Tooth Removal Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-wisdom-tooth-berhampur.html): Everything about wisdom tooth pain, extraction procedure, and recovery in Berhampur.
+- [Common Dental Problems in Berhampur](https://s69909012-dotcom.github.io/dr-smile-berhampur/blog-dental-problems-berhampur.html): Most common dental problems faced by patients in Berhampur and how to treat them.
+
+## Clinic Information
+- Clinic Name: Dr. Smile Dental Clinic
+- Address: Gandhi Nagar, Berhampur (Brahmapur), Ganjam District, Odisha - 760001, India
+- Phone: +91-98765-43210
+- Hours: Monday–Saturday, 9:00 AM – 8:00 PM (Closed Sundays)
+- Languages: English, Odia, Hindi
+- Services: General Dentistry, Root Canal, Dental Implants, Teeth Whitening, Orthodontics, Smile Makeover, Emergency Dentistry
+- Price Range: Affordable (₹₹)
+- Rating: 4.9/5 based on 320 patient reviews
+
+## Technical
+- [Sitemap](https://s69909012-dotcom.github.io/dr-smile-berhampur/sitemap.xml)
