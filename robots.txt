@@ -1,4 +1,63 @@
+# robots.txt — Dr. Smile Dental Clinic Berhampur
+# https://s69909012-dotcom.github.io/dr-smile-berhampur/
+
+# All crawlers allowed
 User-agent: *
 Allow: /
 
+# === AI CRAWLERS — EXPLICITLY ALLOWED ===
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Apple
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon
+User-agent: Amazonbot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Grok (xAI)
+User-agent: xAI-SearchBot
+Allow: /
+
+# === SITEMAP ===
 Sitemap: https://s69909012-dotcom.github.io/dr-smile-berhampur/sitemap.xml
+
+# === llms.txt (AI Summary File) ===
+# https://s69909012-dotcom.github.io/dr-smile-berhampur/llms.txt
