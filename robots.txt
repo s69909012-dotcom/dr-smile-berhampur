@@ -4,6 +4,9 @@
 # All crawlers allowed
 User-agent: *
 Allow: /
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
 
 # === AI CRAWLERS — EXPLICITLY ALLOWED ===
 
