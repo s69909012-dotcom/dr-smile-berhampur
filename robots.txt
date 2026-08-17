@@ -5,7 +5,7 @@
 User-agent: *
 Allow: /
 User-agent: Bingbot
-Allow: /
+Disallow: /
 Crawl-delay: 1
 
 # === AI CRAWLERS — EXPLICITLY ALLOWED ===
